@@ -1,0 +1,6 @@
+streamlit
+reportlab
+qrcode
+pillow
+pdf2image
+poppler-utils
